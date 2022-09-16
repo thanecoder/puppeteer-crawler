@@ -1,0 +1,9 @@
+{
+	"id": "v3YzhvImPzzDAdd",
+	"json": "{\"id\":\"v3YzhvImPzzDAdd\",\"url\":\"https://crawlee.dev/docs/introduction\",\"loadedUrl\":\"https://crawlee.dev/docs/introduction\",\"uniqueKey\":\"https://crawlee.dev/docs/introduction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\"},\"handledAt\":\"2022-09-16T02:53:46.031Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/introduction",
+	"url": "https://crawlee.dev/docs/introduction"
+}
