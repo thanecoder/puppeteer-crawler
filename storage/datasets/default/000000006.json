@@ -1,6 +1,6 @@
 {
-	"url": "https://crawlee.dev/docs/upgrading/upgrading-to-v3",
-	"title": "Upgrading to v3 | Crawlee",
+	"url": "https://crawlee.dev/docs/introduction",
+	"title": "Introduction | Crawlee",
 	"metaTags": [
 		null,
 		"width=device-width,initial-scale=1",
@@ -8,18 +8,17 @@
 		"summary_large_image",
 		"https://crawlee.dev/img/crawlee-og.png",
 		"https://crawlee.dev/img/crawlee-og.png",
-		"https://crawlee.dev/docs/upgrading/upgrading-to-v3",
+		"https://crawlee.dev/docs/introduction",
 		"en",
 		"en",
 		"3.0",
 		"docs-default-3.0",
 		"3.0",
 		"docs-default-3.0",
-		"Upgrading to v3 | Crawlee",
-		"This page summarizes most of the breaking changes between Crawlee (v3) and Apify SDK (v2). Crawlee is the spiritual successor to Apify SDK, so we decided to keep the versioning and release Crawlee as v3.",
-		"This page summarizes most of the breaking changes between Crawlee (v3) and Apify SDK (v2). Crawlee is the spiritual successor to Apify SDK, so we decided to keep the versioning and release Crawlee as v3.",
-		"1",
-		"2"
+		"Introduction | Crawlee",
+		"Your first steps into the world of scraping with Crawlee",
+		"Your first steps into the world of scraping with Crawlee",
+		"1"
 	],
 	"imgTags": [
 		"/img/crawlee-dark.svg",

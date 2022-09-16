@@ -1,6 +1,6 @@
 {
-	"url": "https://crawlee.dev/docs/next/quick-start",
-	"title": "Quick Start | Crawlee",
+	"url": "https://crawlee.dev/api/core/changelog",
+	"title": "Changelog | API | Crawlee",
 	"metaTags": [
 		null,
 		"width=device-width,initial-scale=1",
@@ -8,21 +8,21 @@
 		"summary_large_image",
 		"https://crawlee.dev/img/crawlee-og.png",
 		"https://crawlee.dev/img/crawlee-og.png",
-		"https://crawlee.dev/docs/next/quick-start",
+		"https://crawlee.dev/api/core/changelog",
 		"en",
 		"en",
-		"current",
-		"docs-default-current",
-		"current",
-		"docs-default-current",
-		"Quick Start | Crawlee",
-		"With this short tutorial you can start scraping with Crawlee in a minute or two. To learn more, read the Introduction.",
-		"With this short tutorial you can start scraping with Crawlee in a minute or two. To learn more, read the Introduction.",
-		"1"
+		"3.0",
+		"docs-default-3.0",
+		"3.0",
+		"docs-default-3.0",
+		"Changelog | API | Crawlee",
+		"Change Log",
+		"Change Log",
+		"1",
+		"2"
 	],
 	"imgTags": [
 		"/img/crawlee-dark.svg",
-		"/img/crawlee-dark.svg",
-		"/assets/images/chrome_scrape-e50b8b7d7d8135d12893344cd6cd8763.gif"
+		"/img/crawlee-dark.svg"
 	]
 }

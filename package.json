@@ -5,12 +5,17 @@
     "description": "This is an example of a Crawlee project.",
     "dependencies": {
         "crawlee": "^3.0.0",
+        "express": "^4.18.1",
         "puppeteer": "*"
     },
     "scripts": {
         "start": "node src/main.js",
+        "serve":"nodemon src/main.js",
         "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
     },
     "author": "It's not you it's me",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
 }

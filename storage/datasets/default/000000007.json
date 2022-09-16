@@ -1,6 +1,6 @@
 {
-	"url": "https://crawlee.dev/api/core",
-	"title": "@crawlee/core | API | Crawlee",
+	"url": "https://crawlee.dev/docs/guides",
+	"title": "Guides | Crawlee",
 	"metaTags": [
 		null,
 		"width=device-width,initial-scale=1",
@@ -8,16 +8,16 @@
 		"summary_large_image",
 		"https://crawlee.dev/img/crawlee-og.png",
 		"https://crawlee.dev/img/crawlee-og.png",
-		"https://crawlee.dev/api/core",
+		"https://crawlee.dev/docs/guides",
 		"en",
 		"en",
 		"3.0",
 		"docs-default-3.0",
 		"3.0",
 		"docs-default-3.0",
-		"@crawlee/core | API | Crawlee",
-		"1",
-		"2"
+		"Guides | Crawlee",
+		"guides",
+		"1"
 	],
 	"imgTags": [
 		"/img/crawlee-dark.svg",
